@@ -1,6 +1,9 @@
 atg-client
 ====
 
+![npm](https://img.shields.io/npm/v/atg-client.svg)
+
+
 # Description
 
 This module acts as a simplistic administrative client for interfacing with Veeder-Root Automatic Tank Gauges (ATGs) or other devices speaking the TLS-350 protocol.
