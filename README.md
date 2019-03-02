@@ -1,7 +1,7 @@
 atg-client
 ====
 
-![npm](https://img.shields.io/npm/v/atg-client.svg)
+[![npm](https://img.shields.io/npm/v/atg-client.svg)](https://npmjs.org/package/atg-client)
 
 
 # Description
